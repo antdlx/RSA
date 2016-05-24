@@ -1,0 +1,3 @@
+# RSA
+一个在Android中使用RSA加密的例子。使用AndroidStudio+NDK编程
+学习RSA算法在安卓中应用的同时还能学习一下AndroidStudio的NDK编程
